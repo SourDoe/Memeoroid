@@ -4,6 +4,7 @@ Project Description
 A meme scrolling app that pulls memes from reddit, and allows you to create your own.
 
 Technologies Used
+
 Kotlin  
 Gradle 
 JUnit/ Mockito
@@ -19,12 +20,6 @@ To-do list:
 A previous button in the scroll memes page
 A share feature memes feature through text
 Save memes from reddit onto favorites page
-
-Contributors
-John Haberkorn
-Julie
-Donhem
-David
 
 Structure Artifacts:
 ![image](https://user-images.githubusercontent.com/8829018/171968936-ada6f43c-153e-4836-b516-758b2aeccfc1.png)
